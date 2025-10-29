@@ -69,7 +69,7 @@ def generate_pdf_report(data, total_sales, average_sales, output_file):
     doc.build(elements)
 
 if __name__ == "__main__":
-    data_file = r"C:\Users\Manoj Vadhi\OneDrive\Desktop\automated pdf generater t 2\data.csv"  # Your data.csv path
+    data_file =   # Your data.csv path
     output_pdf = "sample_report_v2.pdf"
 
 
